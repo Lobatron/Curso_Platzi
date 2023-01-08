@@ -4,3 +4,5 @@ Esta es la prueba de proyecto 1, de Git
 
 Esta es una prueba de actualización
 Revisar que pasa
+
+Hoy se comenzar a aprender html y como subir esos cambios a git

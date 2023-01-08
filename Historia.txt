@@ -6,3 +6,6 @@ Esta es una prueba de actualización
 Revisar que pasa
 
 Hoy se comenzar a aprender html y como subir esos cambios a git
+
+Se agregan cambios para poder observar como funciona el tema de las ramas
+

@@ -1,3 +1,6 @@
 Soy Johan Lobaton y estoy en el curso de Git
 
 Esta es la prueba de proyecto 1, de Git
+
+Esta es una prueba de actualización
+Revisar que pasa
